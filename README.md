@@ -1,7 +1,7 @@
 ## END TO END MACHINE LEARNING PROJECT WITH DEPLOYMENT ON AWS Elastic BEANSTALK
 
 INTRODUCTION ABOUT THE DATA:
-AIM: Predicts students maths score considering some other variables (regression Analysis)
+## AIM: Predicts students maths score considering some other features (regression Analysis)
 ## 2 numerical variables
 -writting_score.
 -reading_score.
