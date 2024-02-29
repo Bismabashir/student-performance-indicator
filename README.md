@@ -2,7 +2,7 @@
 
 INTRODUCTION ABOUT THE DATA:
 AIM: Predicts students maths score considering some other variables (regression Analysis)
-##2 numerical variables
+## 2 numerical variables
 -writting_score.
 -reading_score.
 ## 5 categorical variables
@@ -20,7 +20,7 @@ for numerical variables standardsacling is used to scale the features and for ca
 
 ## created the flask app.
 
-##CFinally deploy it over the AWS elastic beanstalk uisng the codepipeline.
+## Finally deploy it over the AWS elastic beanstalk uisng the codepipeline.
 
 AWS DEPLOYMENT LINK : 
 http://studentperformance-env.eba-kpjh8rfd.eu-north-1.elasticbeanstalk.com/predictdata
