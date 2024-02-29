@@ -26,7 +26,8 @@ AWS DEPLOYMENT LINK :
 http://studentperformance-env.eba-kpjh8rfd.eu-north-1.elasticbeanstalk.com/predictdata
 
 SCREENSHOT OF UI:
-![image](https://github.com/Bismabashir/student-performance-indicator/assets/154334661/7730f955-88b2-41d0-ab34-fef4e43105ed)
+![image](https://github.com/Bismabashir/student-performance-indicator/assets/154334661/a6fd9d26-ffdc-45b7-88c9-365e896b25f2)
+
 
 
 
